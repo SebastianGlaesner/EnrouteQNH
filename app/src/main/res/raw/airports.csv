@@ -1,0 +1,567 @@
+ident;name;latitude_deg;longitude_deg;elevation_ft
+AMC;Mar de Cortés International Airport;31,35162125;-113,3058643;71
+AYPY;Port Moresby Jacksons International Airport;-9,443380356;147,2200012;146
+BIKF;Keflavik International Airport;63,98500061;-22,60560036;171
+BKPR;Priština International Airport;42,57279968;21,03580093;1789
+CYEG;Edmonton International Airport;53,30970001;-113,5800018;2373
+CYHZ;Halifax / Stanfield International Airport;44,88079834;-63,50859833;477
+CYOW;Ottawa Macdonald-Cartier International Airport;45,32249832;-75,66919708;374
+CYQB;Quebec Jean Lesage International Airport;46,79109955;-71,39330292;244
+CYUL;Montreal / Pierre Elliott Trudeau International Airport;45,47060013;-73,74079895;118
+CYVR;Vancouver International Airport;49,19390106;-123,1839981;14
+CYWG;Winnipeg / James Armstrong Richardson International Airport;49,90999985;-97,23989868;783
+CYXU;London Airport;43,03559875;-81,15390015;912
+CYYC;Calgary International Airport;51,11389923;-114,0199966;3557
+CYYJ;Victoria International Airport;48,64690018;-123,4260025;63
+CYYT;St. John's International Airport;47,61859894;-52,75189972;461
+CYYZ;Lester B. Pearson International Airport;43,67720032;-79,63059998;569
+DAAG;Houari Boumediene Airport;36,69100189;3,215409994;82
+DGAA;Kotoka International Airport;5,6051898;-0,166786;205
+DNAA;Nnamdi Azikiwe International Airport;9,006790161;7,263169765;1123
+DNAI;Akwa Ibom International Airport;4,8725;8,093;170
+DNMM;Murtala Muhammed International Airport;6,577370167;3,321160078;135
+DTTA;Tunis Carthage International Airport;36,85100174;10,22719955;22
+EBBR;Brussels Airport;50,90140152;4,48443985;184
+EBCI;Brussels South Charleroi Airport;50,45920181;4,453820229;614
+EBLG;Liège Airport;50,63740158;5,443220139;659
+EDDB;Berlin-Schönefeld International Airport;52,38000107;13,52250004;157
+EDDC;Dresden Airport;51,13280106;13,76720047;755
+EDDF;Frankfurt am Main International Airport;50,02640152;8,543129921;364
+EDDG;Münster Osnabrück Airport;52,13460159;7,684830189;160
+EDDH;Hamburg Airport;53,63040161;9,988229752;53
+EDDK;Cologne Bonn Airport;50,86589813;7,142739773;302
+EDDL;Düsseldorf International Airport;51,28950119;6,7667799;147
+EDDM;Munich International Airport;48,35380173;11,78610039;1487
+EDDN;Nuremberg Airport;49,49869919;11,06690025;1046
+EDDP;Leipzig Halle Airport;51,43239975;12,24160004;465
+EDDS;Stuttgart Airport;48,68989944;9,221960068;1276
+EDDT;Berlin-Tegel International Airport;52,55970001;13,2876997;122
+EDDV;Hannover Airport;52,46110153;9,685079575;183
+EDDW;Bremen Airport;53,04750061;8,786669731;14
+EDLW;Dortmund Airport;51,5182991;7,612239838;425
+EDSB;Karlsruhe Baden-Baden Airport;48,77939987;8,080499649;408
+EETN;Lennart Meri Tallinn Airport;59,41329956;24,83279991;131
+EFHK;Helsinki Vantaa Airport;60,31719971;24,9633007;179
+EGAA;Belfast International Airport;54,65750122;-6,215829849;268
+EGAC;George Best Belfast City Airport;54,61809921;-5,872499943;15
+EGBB;Birmingham International Airport;52,45389938;-1,748029947;327
+EGCC;Manchester Airport;53,35369873;-2,274950027;257
+EGCN;Robin Hood Doncaster Sheffield Airport;53,48053781;-1,010656357;55
+EGFF;Cardiff International Airport;51,39670181;-3,343329906;220
+EGGD;Bristol International Airport;51,38270187;-2,719089985;622
+EGGP;Liverpool John Lennon Airport;53,33359909;-2,849720001;80
+EGGW;London Luton Airport;51,87469864;-0,368333012;526
+EGHH;Bournemouth Airport;50,77999878;-1,842499971;38
+EGHI;Southampton Airport;50,95029831;-1,35679996;44
+EGKK;London Gatwick Airport;51,14810181;-0,190277994;202
+EGLC;London City Airport;51,50529861;0,055277999;19
+EGLL;London Heathrow Airport;51,47060013;-0,461941004;83
+EGNM;Leeds Bradford Airport;53,86589813;-1,660570025;681
+EGNT;Newcastle Airport;55,03749847;-1,691669941;266
+EGNX;East Midlands Airport;52,83110046;-1,328060031;306
+EGPD;Aberdeen Dyce Airport;57,20190048;-2,197779894;215
+EGPF;Glasgow International Airport;55,87189865;-4,433060169;26
+EGPH;Edinburgh Airport;55,95000076;-3,372499943;135
+EGSH;Norwich International Airport;52,67580032;1,282780051;117
+EGSS;London Stansted Airport;51,88499832;0,234999999;348
+EGTE;Exeter International Airport;50,7344017;-3,413889885;102
+EGUL;RAF Lakenheath;52,40930176;0,56099999;32
+EGUN;RAF Mildenhall;52,36190033;0,486405998;33
+EGVA;RAF Fairford;51,68220139;-1,790030003;286
+EGVN;RAF Brize Norton;51,75;-1,583619952;288
+EHAM;Amsterdam Airport Schiphol;52,30860138;4,76388979;-11
+EHBK;Maastricht Aachen Airport;50,9117012;5,770140171;375
+EHEH;Eindhoven Airport;51,45009995;5,374529839;74
+EICK;Cork Airport;51,84130096;-8,491109848;502
+EIDW;Dublin Airport;53,42129898;-6,270070076;242
+EINN;Shannon Airport;52,70199966;-8,924819946;46
+EKBI;Billund Airport;55,74029922;9,151780128;247
+EKCH;Copenhagen Kastrup Airport;55,61790085;12,65600014;17
+EKYT;Aalborg Airport;57,09275891;9,849243164;10
+ELLX;Luxembourg-Findel International Airport;49,62659836;6,211520195;1234
+ENBO;Bodø Airport;67,26920319;14,36530018;42
+ENBR;Bergen Airport, Flesland;60,29339981;5,218140125;170
+ENGM;Oslo Gardermoen Airport;60,19390106;11,10039997;681
+ENTC;Tromsø Airport;69,6832962;18,91889954;31
+ENVA;Trondheim Airport, Værnes;63,45780182;10,92399979;56
+ENZV;Stavanger Airport, Sola;58,87670135;5,63778019;29
+EPGD;Gdańsk Lech Wałęsa Airport;54,37760162;18,46619987;489
+EPKK;John Paul II International Airport Kraków-Balice Airport;50,07770157;19,78479958;791
+EPKT;Katowice International Airport;50,47430038;19,07999992;995
+EPMO;Modlin Airport;52,4510994;20,65180016;341
+EPPO;Poznań-Ławica Airport;52,42100143;16,82629967;308
+EPWA;Warsaw Chopin Airport;52,16569901;20,96710014;362
+EPWR;Copernicus Wrocław Airport;51,10269928;16,88579941;404
+ESGG;Gothenburg-Landvetter Airport;57,66279984;12,27980042;506
+ESMS;Malmö Sturup Airport;55,53630536;13,37619781;236
+ESPA;Luleå Airport;65,54380035;22,12199974;65
+ESSA;Stockholm-Arlanda Airport;59,65190125;17,91860008;137
+ETAR;Ramstein Air Base;49,43690109;7,600279808;776
+EVRA;Riga International Airport;56,92359924;23,97109985;36
+EYVI;Vilnius International Airport;54,63410187;25,28580093;646
+FACT;Cape Town International Airport;-33,96480179;18,60169983;151
+FAGG;George Airport;-34,00559998;22,37890053;648
+FAJS;OR Tambo International Airport;-26,13920021;28,24600029;5558
+FALE;King Shaka International Airport;-29,61444444;31,11972222;295
+GCLP;Gran Canaria Airport;27,93190002;-15,38659954;78
+GCTS;Tenerife South Airport;28,04450035;-16,57250023;209
+GCXO;Tenerife Norte Airport;28,48270035;-16,34149933;2076
+GMMN;Mohammed V International Airport;33,36750031;-7,589970112;656
+GOOY;Léopold Sédar Senghor International Airport;14,73970032;-17,49020004;85
+HAAB;Addis Ababa Bole International Airport;8,977890015;38,79930115;7630
+HECA;Cairo International Airport;30,12190056;31,40559959;382
+HEGN;Hurghada International Airport;27,17830086;33,79940033;52
+HKJK;Jomo Kenyatta International Airport;-1,319239974;36,92779922;5330
+HKMO;Mombasa Moi International Airport;-4,034830093;39,59420013;200
+HLLT;Tripoli International Airport;32,66350174;13,1590004;263
+HSSJ;Juba International Airport;4,872010231;31,60110092;1513
+HSSS;Khartoum International Airport;15,58950043;32,55319977;1265
+ID-0017;Sungai Siring International Airport;-0,373611;117,255556;82
+ID-0018;Medan/Kuala Namu International Airport;3,642222;98,885278;
+KABQ;Albuquerque International Sunport Airport;35,04019928;-106,6090012;5355
+KADW;Andrews Air Force Base;38,81079865;-76,86699677;280
+KAFW;Fort Worth Alliance Airport;32,98759842;-97,31880188;722
+KAGS;Augusta Regional At Bush Field;33,36989975;-81,96450043;144
+KAMA;Rick Husband Amarillo International Airport;35,2193985;-101,7060013;3607
+KATL;Hartsfield Jackson Atlanta International Airport;33,63669968;-84,42810059;1026
+KAUS;Austin Bergstrom International Airport;30,19449997;-97,66989899;542
+KAVL;Asheville Regional Airport;35,43619919;-82,54180145;2165
+KBAB;Beale Air Force Base;39,13610077;-121,4369965;113
+KBAD;Barksdale Air Force Base;32,50180054;-93,66269684;166
+KBDL;Bradley International Airport;41,93889999;-72,68319702;173
+KBFI;Boeing Field King County International Airport;47,52999878;-122,302002;21
+KBGR;Bangor International Airport;44,80739975;-68,82810211;192
+KBHM;Birmingham-Shuttlesworth International Airport;33,56290054;-86,75350189;650
+KBIL;Billings Logan International Airport;45,80770111;-108,5429993;3652
+KBLV;Scott AFB/Midamerica Airport;38,54520035;-89,83519745;459
+KBMI;Central Illinois Regional Airport at Bloomington-Normal;40,47710037;-88,91590118;871
+KBNA;Nashville International Airport;36,12450027;-86,67819977;599
+KBOI;Boise Air Terminal/Gowen field;43,56439972;-116,2229996;2871
+KBOS;General Edward Lawrence Logan International Airport;42,36429977;-71,00520325;20
+KBTR;Baton Rouge Metropolitan, Ryan Field;30,53319931;-91,14959717;70
+KBUF;Buffalo Niagara International Airport;42,94049835;-78,73220062;728
+KBWI;Baltimore/Washington International Thurgood Marshall Airport;39,17539978;-76,66829681;146
+KCAE;Columbia Metropolitan Airport;33,93880081;-81,11949921;236
+KCBM;Columbus Air Force Base;33,64379883;-88,44380188;219
+KCHA;Lovell Field;35,03530121;-85,20379639;683
+KCHS;Charleston Air Force Base-International Airport;32,89860153;-80,04049683;46
+KCID;The Eastern Iowa Airport;41,88470078;-91,71080017;869
+KCLE;Cleveland Hopkins International Airport;41,4117012;-81,84980011;791
+KCLT;Charlotte Douglas International Airport;35,2140007;-80,94309998;748
+KCMH;Port Columbus International Airport;39,9980011;-82,89189911;815
+KCOS;City of Colorado Springs Municipal Airport;38,80580139;-104,7009964;6187
+KCPR;Casper-Natrona County International Airport;42,90800095;-106,4639969;5350
+KCRP;Corpus Christi International Airport;27,77039909;-97,50119781;44
+KCRW;Yeager Airport;38,37310028;-81,59320068;981
+KCVG;Cincinnati Northern Kentucky International Airport;39,04880142;-84,6678009;896
+KCVS;Cannon Air Force Base;34,38280106;-103,3219986;4295
+KDAL;Dallas Love Field;32,8470993;-96,85179901;487
+KDAY;James M Cox Dayton International Airport;39,90240097;-84,2193985;1009
+KDBQ;Dubuque Regional Airport;42,40200043;-90,70950317;1077
+KDCA;Ronald Reagan Washington National Airport;38,85210037;-77,03769684;15
+KDEN;Denver International Airport;39,86169815;-104,6729965;5431
+KDFW;Dallas Fort Worth International Airport;32,89680099;-97,03800201;607
+KDLF;Laughlin Air Force Base;29,35950089;-100,7779999;1082
+KDLH;Duluth International Airport;46,84209824;-92,19360352;1428
+KDOV;Dover Air Force Base;39,12950134;-75,46600342;24
+KDSM;Des Moines International Airport;41,5340004;-93,6631012;958
+KDTW;Detroit Metropolitan Wayne County Airport;42,21239853;-83,35340118;645
+KDYS;Dyess Air Force Base;32,42079926;-99,854599;1789
+KEDW;Edwards Air Force Base;34,90539932;-117,8840027;2312
+KEND;Vance Air Force Base;36,33919907;-97,91649628;1307
+KERI;Erie International Tom Ridge Field;42,08312701;-80,17386675;732
+KEWR;Newark Liberty International Airport;40,69250107;-74,16870117;18
+KFFO;Wright-Patterson Air Force Base;39,8260994;-84,0483017;823
+KFLL;Fort Lauderdale Hollywood International Airport;26,07259941;-80,15270233;9
+KFSM;Fort Smith Regional Airport;35,33660126;-94,36740112;469
+KFTW;Fort Worth Meacham International Airport;32,81980133;-97,36239624;710
+KFWA;Fort Wayne International Airport;40,97850037;-85,19509888;814
+KGEG;Spokane International Airport;47,61989975;-117,5339966;2376
+KGPT;Gulfport Biloxi International Airport;30,40730095;-89,07009888;28
+KGRB;Austin Straubel International Airport;44,48509979;-88,12960052;695
+KGSB;Seymour Johnson Air Force Base;35,33940125;-77,96060181;109
+KGSO;Piedmont Triad International Airport;36,09780121;-79,93730164;925
+KGSP;Greenville Spartanburg International Airport;34,89569855;-82,21890259;964
+KGUS;Grissom Air Reserve Base;40,64810181;-86,15209961;812
+KHIB;Range Regional Airport;47,38660049;-92,83899689;1354
+KHMN;Holloman Air Force Base;32,85250092;-106,1070023;4093
+KHOU;William P Hobby Airport;29,64539909;-95,27890015;46
+KHSV;Huntsville International Carl T Jones Field;34,6371994;-86,77510071;629
+KHTS;Tri-State/Milton J. Ferguson Field;38,36669922;-82,55799866;828
+KIAD;Washington Dulles International Airport;38,94449997;-77,45580292;312
+KIAH;George Bush Intercontinental Houston Airport;29,9843998;-95,34140015;97
+KICT;Wichita Mid Continent Airport;37,64989853;-97,43309784;1333
+KIND;Indianapolis International Airport;39,71730042;-86,29440308;797
+KJAN;Jackson-Medgar Wiley Evers International Airport;32,31119919;-90,07589722;346
+KJAX;Jacksonville International Airport;30,49410057;-81,68789673;30
+KJFK;John F Kennedy International Airport;40,63980103;-73,77890015;13
+KJLN;Joplin Regional Airport;37,15179825;-94,49829865;981
+KLAS;McCarran International Airport;36,08010101;-115,1520004;2181
+KLAX;Los Angeles International Airport;33,94250107;-118,4079971;125
+KLBB;Lubbock Preston Smith International Airport;33,66360092;-101,822998;3282
+KLCK;Rickenbacker International Airport;39,81380081;-82,92780304;744
+KLEX;Blue Grass Airport;38,03649902;-84,60590363;979
+KLFI;Langley Air Force Base;37,082901;-76,36049652;11
+KLFT;Lafayette Regional Airport;30,20529938;-91,98760223;42
+KLGA;La Guardia Airport;40,77719879;-73,87259674;21
+KLIT;Bill & Hillary Clinton National Airport/Adams Field;34,72940063;-92,22429657;262
+KLTS;Altus Air Force Base;34,667099;-99,26670074;1382
+KLUF;Luke Air Force Base;33,53499985;-112,3830032;1085
+KMBS;MBS International Airport;43,53290176;-84,07959747;668
+KMCF;Mac Dill Air Force Base;27,84930038;-82,52120209;14
+KMCI;Kansas City International Airport;39,29759979;-94,71389771;1026
+KMCO;Orlando International Airport;28,42939949;-81,30899811;96
+KMDW;Chicago Midway International Airport;41,7859993;-87,75240326;620
+KMEM;Memphis International Airport;35,04240036;-89,97669983;341
+KMGE;Dobbins Air Reserve Base;33,91540146;-84,51629639;1068
+KMGM;Montgomery Regional (Dannelly Field) Airport;32,30059814;-86,39399719;221
+KMHT;Manchester Airport;42,93259811;-71,43569946;266
+KMIA;Miami International Airport;25,79319954;-80,29060364;8
+KMKE;General Mitchell International Airport;42,94720078;-87,89659882;723
+KMLI;Quad City International Airport;41,44850159;-90,50749969;590
+KMLU;Monroe Regional Airport;32,51089859;-92,03769684;79
+KMOB;Mobile Regional Airport;30,69120026;-88,24279785;219
+KMSN;Dane County Regional Truax Field;43,13990021;-89,33750153;887
+KMSP;Minneapolis-St Paul International/Wold-Chamberlain Airport;44,88199997;-93,22180176;841
+KMSY;Louis Armstrong New Orleans International Airport;29,99340057;-90,25800323;4
+KMUO;Mountain Home Air Force Base;43,04359818;-115,8720016;2996
+KOAK;Metropolitan Oakland International Airport;37,72129822;-122,2210007;9
+KOKC;Will Rogers World Airport;35,39310074;-97,60070038;1295
+KONT;Ontario International Airport;34,05599976;-117,6009979;944
+KORD;Chicago O'Hare International Airport;41,97859955;-87,90480042;672
+KORF;Norfolk International Airport;36,89459991;-76,20120239;26
+KPAM;Tyndall Air Force Base;30,06959915;-85,57540131;17
+KPBI;Palm Beach International Airport;26,68320084;-80,09559631;19
+KPDX;Portland International Airport;45,58869934;-122,5979996;31
+KPHF;Newport News Williamsburg International Airport;37,13190079;-76,49299622;42
+KPHL;Philadelphia International Airport;39,87189865;-75,2410965;36
+KPHX;Phoenix Sky Harbor International Airport;33,43429947;-112,012001;1135
+KPIA;General Wayne A. Downing Peoria International Airport;40,66419983;-89,69329834;660
+KPIT;Pittsburgh International Airport;40,49150085;-80,23290253;1203
+KPWM;Portland International Jetport Airport;43,64619827;-70,30930328;76
+KRDU;Raleigh Durham International Airport;35,87760162;-78,78749847;435
+KRFD;Chicago Rockford International Airport;42,19540024;-89,09719849;742
+KRIC;Richmond International Airport;37,50519943;-77,31970215;167
+KRND;Randolph Air Force Base;29,52969933;-98,27890015;761
+KRNO;Reno Tahoe International Airport;39,49909973;-119,7679977;4415
+KROA;Roanoke–Blacksburg Regional Airport;37,32550049;-79,97540283;1175
+KROC;Greater Rochester International Airport;43,1189003;-77,67240143;559
+KRST;Rochester International Airport;43,90829849;-92,5;1317
+KRSW;Southwest Florida International Airport;26,53619957;-81,75520325;30
+KSAN;San Diego International Airport;32,73360062;-117,1900024;17
+KSAT;San Antonio International Airport;29,53370094;-98,46980286;809
+KSAV;Savannah Hilton Head International Airport;32,12760162;-81,20210266;50
+KSBN;South Bend Regional Airport;41,70869827;-86,31729889;799
+KSDF;Louisville International Standiford Field;38,17440033;-85,73600006;501
+KSEA;Seattle Tacoma International Airport;47,44900131;-122,3089981;433
+KSFB;Orlando Sanford International Airport;28,77759933;-81,23750305;55
+KSFO;San Francisco International Airport;37,61899948;-122,375;13
+KSGF;Springfield Branson National Airport;37,24570084;-93,38860321;1268
+KSHV;Shreveport Regional Airport;32,44660187;-93,82559967;258
+KSJC;Norman Y. Mineta San Jose International Airport;37,36259842;-121,9290009;62
+KSKA;Fairchild Air Force Base;47,61510086;-117,6559982;2461
+KSLC;Salt Lake City International Airport;40,78839874;-111,9779968;4227
+KSMF;Sacramento International Airport;38,69540024;-121,5910034;27
+KSNA;John Wayne Airport-Orange County Airport;33,67570114;-117,8679962;56
+KSPI;Abraham Lincoln Capital Airport;39,84410095;-89,67790222;598
+KSPS;Sheppard Air Force Base-Wichita Falls Municipal Airport;33,98880005;-98,49189758;1019
+KSRQ;Sarasota Bradenton International Airport;27,39539909;-82,55439758;30
+KSSC;Shaw Air Force Base;33,97269821;-80,47059631;241
+KSTL;Lambert St Louis International Airport;38,74869919;-90,37000275;618
+KSUS;Spirit of St Louis Airport;38,66210175;-90,65200043;463
+KSUU;Travis Air Force Base;38,26269913;-121,927002;62
+KSUX;Sioux Gateway Col. Bud Day Field;42,40259933;-96,38439941;1098
+KSYR;Syracuse Hancock International Airport;43,11119843;-76,10630035;421
+KSZL;Whiteman Air Force Base;38,7303009;-93,54789734;870
+KTCM;McChord Air Force Base;47,13769913;-122,4759979;322
+KTIK;Tinker Air Force Base;35,41469955;-97,38659668;1291
+KTLH;Tallahassee Regional Airport;30,39649963;-84,35030365;81
+KTOL;Toledo Express Airport;41,58679962;-83,80780029;683
+KTPA;Tampa International Airport;27,97550011;-82,53320313;26
+KTRI;Tri Cities Regional Tn Va Airport;36,47520065;-82,40740204;1519
+KTUL;Tulsa International Airport;36,19839859;-95,88809967;677
+KTUS;Tucson International Airport;32,11610031;-110,9410019;2643
+KTYS;McGhee Tyson Airport;35,81100082;-83,9940033;981
+KVBG;Vandenberg Air Force Base;34,73730087;-120,5839996;369
+KVPS;Eglin Air Force Base;30,48320007;-86,52539825;87
+KWRB;Robins Air Force Base;32,64009857;-83,59190369;294
+LATI;Tirana International Airport Mother Teresa;41,41469955;19,72060013;126
+LBBG;Burgas Airport;42,56959915;27,51519966;135
+LBPD;Plovdiv International Airport;42,06779861;24,85079956;597
+LBSF;Sofia Airport;42,69669342;23,41143608;1742
+LBWN;Varna Airport;43,23210144;27,82509995;230
+LCLK;Larnaca International Airport;34,87509918;33,62490082;8
+LCPH;Paphos International Airport;34,7179985;32,4856987;41
+LDZA;Zagreb Airport;45,74290085;16,06879997;353
+LEAL;Alicante International Airport;38,28219986;-0,558156013;142
+LEBL;Barcelona International Airport;41,29710007;2,078459978;12
+LEMD;Adolfo Suárez Madrid–Barajas Airport;40,4936;-3,56676;1998
+LEMG;Málaga Airport;36,67490005;-4,499110222;53
+LEPA;Palma De Mallorca Airport;39,55170059;2,738810062;27
+LEST;Santiago de Compostela Airport;42,89630127;-8,415140152;1213
+LFBD;Bordeaux-Mérignac Airport;44,82830048;-0,715556026;162
+LFBO;Toulouse-Blagnac Airport;43,6291008;1,363819957;499
+LFML;Marseille Provence Airport;43,43927192;5,221424103;74
+LFMN;Nice-Côte d'Azur Airport;43,65840149;7,215869904;12
+LFOA;Avord (BA 702) Air Base;47,05329895;2,632499933;580
+LFPG;Charles de Gaulle International Airport;49,01279831;2,549999952;392
+LFPO;Paris-Orly Airport;48,72529984;2,359440088;291
+LFSB;EuroAirport Basel-Mulhouse-Freiburg Airport;47,58959961;7,529910088;885
+LGAV;Eleftherios Venizelos International Airport;37,93640137;23,94449997;308
+LGIR;Heraklion International Nikos Kazantzakis Airport;35,33969879;25,18029976;115
+LGTS;Thessaloniki Macedonia International Airport;40,5196991;22,97089958;22
+LHBP;Budapest Ferenc Liszt International Airport;47,43690109;19,25559998;495
+LIBD;Bari Karol Wojtyła Airport;41,13890076;16,76059914;177
+LICC;Catania-Fontanarossa Airport;37,46680069;15,06639957;39
+LICJ;Falcone–Borsellino Airport;38,17599869;13,0909996;65
+LIEE;Cagliari Elmas Airport;39,25149918;9,054280281;13
+LIMC;Malpensa International Airport;45,63059998;8,728110313;768
+LIME;Il Caravaggio International Airport;45,6739006;9,704170227;782
+LIMF;Turin Airport;45,20080185;7,64963007;989
+LIMJ;Genoa Cristoforo Colombo Airport;44,41329956;8,837499619;13
+LIML;Linate Airport;45,44509888;9,276740074;353
+LIMZ;Cuneo International Airport;44,54700089;7,623219967;1267
+LIPE;Bologna Guglielmo Marconi Airport;44,53540039;11,2887001;123
+LIPH;Treviso-Sant'Angelo Airport;45,64839935;12,19439983;59
+LIPX;Verona Villafranca Airport;45,39569855;10,88850021;239
+LIPZ;Venice Marco Polo Airport;45,50529861;12,3519001;7
+LIRA;Ciampino–G. B. Pastine International Airport;41,79940033;12,59490013;427
+LIRF;Leonardo da Vinci–Fiumicino Airport;41,80450058;12,25080013;15
+LIRN;Naples International Airport;40,88600159;14,29080009;294
+LIRP;Pisa International Airport;43,68389893;10,3927002;6
+LJLJ;Ljubljana Jože Pučnik Airport;46,22370148;14,45759964;1273
+LKPR;Ruzyně International Airport;50,10079956;14,26000023;1247
+LLBG;Ben Gurion International Airport;32,01139832;34,88669968;135
+LLOV;Ovda International Airport;29,94029999;34,93579865;1492
+LMML;Malta International Airport;35,857498;14,4775;300
+LOWW;Vienna International Airport;48,11029816;16,56970024;600
+LPFR;Faro Airport;37,01440048;-7,965909958;24
+LPLA;Lajes Field;38,76179886;-27,09079933;180
+LPPD;João Paulo II Airport;37,74119949;-25,69790077;259
+LPPR;Francisco de Sá Carneiro Airport;41,24810028;-8,681389809;228
+LPPT;Lisbon Portela Airport;38,78129959;-9,135919571;374
+LQSA;Sarajevo International Airport;43,82460022;18,3314991;1708
+LROP;Henri Coandă International Airport;44,57220078;26,10219955;314
+LSGG;Geneva Cointrin International Airport;46,23809814;6,108950138;1411
+LSZH;Zürich Airport;47,46469879;8,54916954;1416
+LTAC;Esenboğa International Airport;40,12810135;32,99509811;3125
+LTAF;Adana Airport;36,98220062;35,28039932;65
+LTAI;Antalya International Airport;36,89870071;30,80050087;177
+LTAJ;Gaziantep International Airport;36,94720078;37,47869873;2315
+LTAZ;Nevşehir Kapadokya International Airport;38,77190018;34,53450012;3100
+LTBA;Atatürk International Airport;40,97689819;28,81459999;163
+LTBJ;Adnan Menderes International Airport;38,29240036;27,15699959;412
+LTBS;Dalaman International Airport;36,71310043;28,79249954;20
+LTCE;Erzurum International Airport;39,95650101;41,17020035;5763
+LTCG;Trabzon International Airport;40,99509811;39,78969955;104
+LTFC;Süleyman Demirel International Airport;37,85540009;30,36840057;2835
+LTFE;Milas Bodrum International Airport;37,25059891;27,66430092;21
+LTFJ;Sabiha Gökçen International Airport;40,89860153;29,30920029;312
+LYBE;Belgrade Nikola Tesla Airport;44,81840134;20,3090992;335
+LYPG;Podgorica Airport;42,3594017;19,25189972;141
+LZIB;M. R. Štefánik Airport;48,17020035;17,21269989;436
+MDPC;Punta Cana International Airport;18,56739998;-68,36340332;47
+MDSD;Las Américas International Airport;18,42970085;-69,66889954;59
+MKJP;Norman Manley International Airport;17,93569946;-76,78749847;10
+MMAA;General Juan N Alvarez International Airport;16,75709915;-99,7539978;16
+MMGL;Don Miguel Hidalgo Y Costilla International Airport;20,52179909;-103,310997;5016
+MMHO;General Ignacio P. Garcia International Airport;29,09589958;-111,0479965;627
+MMMX;Licenciado Benito Juarez International Airport;19,43630028;-99,07209778;7316
+MMMY;General Mariano Escobedo International Airport;25,7784996;-100,1070023;1278
+MMPR;Licenciado Gustavo Díaz Ordaz International Airport;20,68009949;-105,2539978;23
+MMSD;Los Cabos International Airport;23,15180016;-109,7210007;374
+MMTJ;General Abelardo L. Rodríguez International Airport;32,54109955;-116,9700012;489
+MMUN;Cancún International Airport;21,03650093;-86,87709808;22
+MPTO;Tocumen International Airport;9,071359634;-79,38349915;135
+MUHA;José Martí International Airport;22,98920059;-82,40910339;210
+MUVR;Juan Gualberto Gomez International Airport;23,03440094;-81,43530273;210
+MWCR;Owen Roberts International Airport;19,2928009;-81,35769653;8
+MYNN;Lynden Pindling International Airport;25,03899956;-77,46620178;16
+MZBZ;Philip S. W. Goldson International Airport;17,53910065;-88,30819702;15
+NCRG;Rarotonga International Airport;-21,20269966;-159,8059998;19
+NZAA;Auckland International Airport;-37,0080986;174,7920074;23
+NZCH;Christchurch International Airport;-43,48939896;172,5319977;123
+NZWN;Wellington International Airport;-41,32720184;174,8049927;41
+OBBI;Bahrain International Airport;26,27079964;50,63359833;6
+OEDF;King Fahd International Airport;26,47120094;49,79790115;72
+OEDR;King Abdulaziz Air Base;26,26539993;50,15200043;84
+OEJN;King Abdulaziz International Airport;21,67959976;39,15650177;48
+OEMA;Prince Mohammad Bin Abdulaziz Airport;24,55340004;39,70510101;2151
+OERK;King Khaled International Airport;24,95759964;46,69879913;2049
+OIIE;Imam Khomeini International Airport;35,41609955;51,15219879;3305
+OIII;Mehrabad International Airport;35,68920135;51,31340027;3962
+OIMM;Mashhad International Airport;36,23519897;59,64099884;3263
+OISS;Shiraz Shahid Dastghaib International Airport;29,53919983;52,58980179;4920
+OITT;Tabriz International Airport;38,13389969;46,23500061;4459
+OJAI;Queen Alia International Airport;31,72260094;35,99319839;2395
+OKBK;Kuwait International Airport;29,22660065;47,96889877;206
+OLBA;Beirut Rafic Hariri International Airport;33,82089996;35,48839951;87
+OM-0003;Duqm Jaaluni Airport;19,50222222;57,63444444;390
+OM-0004;Rustaq Airport;23,64055556;57,4875;349
+OMAA;Abu Dhabi International Airport;24,43300056;54,65110016;88
+OMDB;Dubai International Airport;25,25279999;55,36439896;62
+OMDW;Al Maktoum International Airport;24,89666667;55,16138889;114
+OMSJ;Sharjah International Airport;25,32859993;55,51720047;111
+OOMS;Muscat International Airport;23,59329987;58,28440094;48
+OPRN;Benazir Bhutto International Airport;33,61669922;73,09919739;1668
+OPST;Sialkot Airport;32,53555679;74,3638916;837
+ORBI;Baghdad International Airport;33,26250076;44,23460007;114
+ORMM;Basrah International Airport;30,54910088;47,66210175;11
+OSAP;Aleppo International Airport;36,18069839;37,22439957;1276
+OSDI;Damascus International Airport;33,41149902;36,5155983;2020
+OSLK;Bassel Al-Assad International Airport;35,40110016;35,94869995;157
+PAFA;Fairbanks International Airport;64,81510162;-147,8560028;439
+PANC;Ted Stevens Anchorage International Airport;61,17440033;-149,9960022;152
+PGUM;Antonio B. Won Pat International Airport;13,48340034;144,7960052;298
+PH-0001;Laguindingan Airport;8,612203;124,456496;190
+PHNL;Honolulu International Airport;21,31870079;-157,9219971;13
+PK-0001;(Under construction) New Islamabad International Airport;33,560714;72,851614;646
+PR20;Michael Gonzalez Airport;18,18020058;-66,75689697;2340
+QA-0001;Hamad International Airport;25,273056;51,608056;13
+RCBS;Kinmen Airport;24,42790031;118,3590012;93
+RCKH;Kaohsiung International Airport;22,57710075;120,3499985;31
+RCTP;Taiwan Taoyuan International Airport;25,07769966;121,2330017;106
+RJAA;Narita International Airport;35,76470184;140,3860016;141
+RJBB;Kansai International Airport;34,4272995;135,2440033;26
+RJCC;New Chitose Airport;42,77519989;141,6920013;82
+RJFF;Fukuoka Airport;33,58589935;130,451004;32
+RJFK;Kagoshima Airport;31,80340004;130,7189941;906
+RJGG;Chubu Centrair International Airport;34,85839844;136,8049927;15
+rjns;Mt. Fuji Shizuoka Airport;34,79604347;138,1877518;433
+RJOO;Osaka International Airport;34,78549957;135,4380035;50
+RJTT;Tokyo International Airport;35,5522995;139,7799988;35
+RJTY;Yokota Air Base;35,74850082;139,3480072;463
+RKJB;Muan International Airport;34,991406;126,382814;
+RKJK;Kunsan Air Base;35,90380096;126,6159973;29
+RKPC;Jeju International Airport;33,51129913;126,4929962;118
+RKPK;Gimhae International Airport;35,17950058;128,9380035;6
+RKSI;Incheon International Airport;37,46910095;126,4509964;23
+RKSO;Osan Air Base;37,09059906;127,0299988;38
+RKSS;Gimpo International Airport;37,55830002;126,7910004;58
+RKTU;Cheongju International Airport;36,71659851;127,4990005;191
+ROAH;Naha Airport;26,19580078;127,6460037;12
+RODN;Kadena Air Base;26,35560036;127,7679977;143
+RPLC;Clark International Airport;15,18599987;120,5599976;484
+RPLL;Ninoy Aquino International Airport;14,50860024;121,0199966;75
+RPMD;Francisco Bangoy International Airport;7,125520229;125,6460037;96
+RPVM;Mactan Cebu International Airport;10,30749989;123,9789963;31
+RU-0016;Lipetsk Air Base;52,63499832;39,44499969;636
+RU-0035;Grozny North Airport;43,38830185;45,69860077;
+RU-2244;Ukrainka Air Base;51,16999817;128,4450073;771
+RU-4464;Olenya Air Base;68,15180206;33,46390152;702
+SAEZ;Ministro Pistarini International Airport;-34,8222;-58,5358;67
+SBBE;Val de Cans/Júlio Cezar Ribeiro International Airport;-1,37925005;-48,47629929;54
+SBBR;Presidente Juscelino Kubistschek International Airport;-15,86916733;-47,92083359;3497
+SBCF;Tancredo Neves International Airport;-19,62444305;-43,9719429;2715
+SBCT;Afonso Pena Airport;-25,5284996;-49,17580032;2988
+SBFL;Hercílio Luz International Airport;-27,67027855;-48,55250168;16
+SBGL;RIOgaleão – Tom Jobim International Airport;-22,80999947;-43,25055695;28
+SBGR;Guarulhos - Governador André Franco Montoro International Airport;-23,43555641;-46,47305679;2459
+SBSG;Governador Aluízio Alves International Airport;-5,768056;-35,376111;272
+SBSP;Congonhas Airport;-23,62611008;-46,65638733;2631
+SBSV;Deputado Luiz Eduardo Magalhães International Airport;-12,9086113;-38,32249832;64
+SCEL;Comodoro Arturo Merino Benítez International Airport;-33,39300156;-70,78579712;1555
+SELT;Cotopaxi International Airport;-0,906832993;-78,61579895;9205
+SEQM;Mariscal Sucre International Airport;-0,129166667;-78,3575;7841
+SKBO;El Dorado International Airport;4,70159;-74,1469;8361
+SPIM;Jorge Chávez International Airport;-12,02190018;-77,11430359;113
+SPZO;Alejandro Velasco Astete International Airport;-13,53569984;-71,938797;10860
+SUMU;Carrasco International /General C L Berisso Airport;-34,83840179;-56,03079987;105
+TJSJ;Luis Munoz Marin International Airport;18,43939972;-66,00180054;9
+TN-0002;Enfidha - Hammamet International Airport;36,075833;10,438611;21
+TNCM;Princess Juliana International Airport;18,04100037;-63,10889816;13
+UAAA;Almaty Airport;43,35210037;77,04049683;2234
+UACC;Astana International Airport;51,02220154;71,46690369;1165
+UAFM;Manas International Airport;43,06129837;74,4776001;2058
+UAKK;Sary-Arka Airport;49,67079926;73,33439636;1765
+UBBB;Heydar Aliyev International Airport;40,46749878;50,04669952;10
+UDYZ;Zvartnots International Airport;40,14730072;44,39590073;2838
+UGTB;Tbilisi International Airport;41,6692009;44,95470047;1624
+UKBB;Boryspil International Airport;50,34500122;30,8946991;427
+UKCC;Donetsk International Airport;48,07360077;37,73970032;791
+UKFF;Simferopol International Airport;45,05220032;33,97510147;639
+UKHH;Kharkiv International Airport;49,92480087;36,29000092;508
+UKOO;Odessa International Airport;46,42679977;30,67650032;172
+ULLI;Pulkovo Airport;59,8003006;30,26250076;78
+UMMS;Minsk International Airport;53,88249969;28,03070068;670
+UNKL;Yemelyanovo Airport;56,17290115;92,49330139;942
+URSS;Sochi International Airport;43,44990158;39,95660019;89
+USSS;Koltsovo Airport;56,74309921;60,80270004;764
+UTTT;Tashkent International Airport;41,25790024;69,28119659;1417
+UUBW;Ramenskoye Airport;55,55329895;38,15000153;377
+UUDD;Domodedovo International Airport;55,40879822;37,90629959;588
+UUEE;Sheremetyevo International Airport;55,97259903;37,41460037;622
+UUMU;Chkalovskiy Airport;55,87829971;38,06169891;499
+UUWW;Vnukovo International Airport;55,59149933;37,26150131;685
+UWUU;Ufa International Airport;54,55749893;55,87440109;449
+UWWW;Kurumoch International Airport;53,50490189;50,16429901;477
+VABB;Chhatrapati Shivaji International Airport;19,08869934;72,86789703;39
+VAGO;Dabolim Airport;15,38080025;73,83139801;150
+VCBI;Bandaranaike International Colombo Airport;7,180759907;79,88410187;30
+VCRI;Mattala Rajapaksa International Airport;6,284467;81,124128;
+VDPP;Phnom Penh International Airport;11,54660034;104,8440018;40
+VDSR;Siem Reap International Airport;13,41069984;103,8130035;60
+VECC;Netaji Subhash Chandra Bose International Airport;22,65469933;88,44670105;16
+VHHH;Chek Lap Kok International Airport;22,30890083;113,9150009;28
+VIAR;Sri Guru Ram Dass Jee International Airport;31,70960045;74,79730225;756
+VIDP;Indira Gandhi International Airport;28,56649971;77,10310364;777
+VISM;Shimla Airport;31,08180046;77,06800079;5072
+VMMC;Macau International Airport;22,14959908;113,5920029;20
+VOBL;Bengaluru International Airport;13,19789982;77,70629883;3000
+VOCI;Cochin International Airport;10,15200043;76,40190125;30
+VOCL;Calicut International Airport;11,13679981;75,95529938;342
+VOHS;Rajiv Gandhi International Airport;17,23131752;78,42985535;2024
+VOMM;Chennai International Airport;12,99000549;80,16929626;52
+VOTV;Trivandrum International Airport;8,48211956;76,92009735;15
+VRMM;Malé International Airport;4,191830158;73,52909851;6
+VTBD;Don Mueang International Airport;13,91259956;100,6070023;9
+VTBS;Suvarnabhumi Airport;13,68109989;100,7470016;5
+VTCC;Chiang Mai International Airport;18,76679993;98,96260071;1036
+VVDN;Da Nang International Airport;16,04389954;108,1989975;33
+VVNB;Noi Bai International Airport;21,22120094;105,8069992;39
+VVTS;Tan Son Nhat International Airport;10,81879997;106,6520004;33
+VYMD;Mandalay International Airport;21,70219994;95,97789764;300
+VYYY;Yangon International Airport;16,90730095;96,1332016;109
+WAAA;Hasanuddin International Airport;-5,061629772;119,5540009;47
+WADD;Ngurah Rai (Bali) International Airport;-8,748169899;115,1669998;14
+WARR;Juanda International Airport;-7,379829884;112,7870026;9
+WBSB;Brunei International Airport;4,944200039;114,9280014;73
+WIII;Soekarno-Hatta International Airport;-6,12556982;106,6559982;34
+WMKK;Kuala Lumpur International Airport;2,745579958;101,7099991;69
+WSSS;Singapore Changi International Airport;1,350190043;103,9940033;22
+YBBN;Brisbane International Airport;-27,38419914;153,1170044;13
+YMML;Melbourne International Airport;-37,6733017;144,8430023;434
+YPPH;Perth International Airport;-31,94029999;115,9670029;67
+YSCB;Canberra International Airport;-35,30690002;149,1950073;1886
+YSSY;Sydney Kingsford Smith International Airport;-33,94609833;151,177002;21
+ZBAA;Beijing Capital International Airport;40,08010101;116,5849991;116
+ZBNY;Beijing Nanyuan Airport;39,78279877;116,3880005;
+ZBTJ;Tianjin Binhai International Airport;39,12440109;117,3460007;10
+ZBYN;Taiyuan Wusu Airport;37,74689865;112,6279984;2575
+ZGGG;Guangzhou Baiyun International Airport;23,39240074;113,2990036;50
+ZGHA;Changsha Huanghua International Airport;28,18919945;113,2200012;217
+ZGKL;Guilin Liangjiang International Airport;25,21809959;110,0390015;570
+ZGNN;Nanning Wuxu Airport;22,60829926;108,1719971;421
+ZGSZ;Shenzhen Bao'an International Airport;22,63929939;113,810997;13
+ZHCC;Zhengzhou Xinzheng International Airport;34,5196991;113,8410034;495
+ZHHH;Wuhan Tianhe International Airport;30,78380013;114,2080002;113
+ZJHK;Haikou Meilan International Airport;19,93490028;110,4589996;75
+ZJSY;Sanya Phoenix International Airport;18,30290031;109,4120026;92
+ZLXY;Xi'an Xianyang International Airport;34,44710159;108,7519989;1572
+ZPPP;Kunming Wujiaba International Airport;24,99239922;102,7440033;6217
+ZSAM;Xiamen Gaoqi International Airport;24,54400063;118,1279984;59
+ZSFZ;Fuzhou Changle International Airport;25,93510056;119,663002;46
+ZSHC;Hangzhou Xiaoshan International Airport;30,22949982;120,4339981;23
+ZSJN;Yaoqiang Airport;36,85720062;117,2160034;76
+ZSNB;Ningbo Lishe International Airport;29,82670021;121,461998;13
+ZSNJ;Nanjing Lukou Airport;31,74200058;118,8619995;49
+ZSPD;Shanghai Pudong International Airport;31,14340019;121,8050003;13
+ZSSS;Shanghai Hongqiao International Airport;31,19790077;121,3359985;10
+ZSWZ;Wenzhou Yongqiang Airport;27,91220093;120,8519974;
+ZUCK;Chongqing Jiangbei International Airport;29,71920013;106,6419983;1365
+ZUGY;Longdongbao Airport;26,53849983;106,8010025;3736
+ZUUU;Chengdu Shuangliu International Airport;30,57850075;103,9469986;1625
+ZWWW;Ürümqi Diwopu International Airport;43,90710068;87,47419739;2125
+ZYHB;Taiping Airport;45,62340164;126,25;457
+ZYTL;Zhoushuizi Airport;38,96569824;121,5390015;107
+ZYTX;Taoxian Airport;41,63980103;123,4830017;198
