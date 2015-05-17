@@ -2,6 +2,7 @@ package com.efolx.enrouteqnh;
 
 import android.content.Context;
 import android.content.SharedPreferences;
+import android.graphics.Color;
 import android.location.Criteria;
 import android.location.Location;
 import android.location.LocationManager;
@@ -162,7 +163,7 @@ public class MainActivity extends ActionBarActivity implements AdapterView.OnIte
             TextView elevationTextView = (TextView) findViewById(R.id.elevationTextView);
             elevationTextView.setText(Integer.toString(selectedAirport.getElevation()));
 
-            //loadQNH();
+            loadQNH();
 
         }else{
             findViewById(R.id.airportBox).setVisibility(View.INVISIBLE);
@@ -170,33 +171,11 @@ public class MainActivity extends ActionBarActivity implements AdapterView.OnIte
     }
 
     private void loadQNH() {
-        AsyncTask<Void, Void, Void> task = new AsyncTask<Void, Void, Void>() {
-            @Override
-            protected Void doInBackground(Void... params) {
-                String baseURL = "tgftp.nws.noaa.gov";
-                String remoteDirectory="/data/observations/metar/stations";
-                FTPClient client = new FTPClient();
-                try {
-                    client.connect(baseURL);
-                    client.changeWorkingDirectory(remoteDirectory);
-                    InputStream qnhStream = client.retrieveFileStream(selectedAirport.getId() + ".TXT");
-                    BufferedReader reader  = new BufferedReader(new InputStreamReader(qnhStream));
-                    client.disconnect();
-                    String line;
-                    StringBuffer result = new StringBuffer();
-                    while((line=reader.readLine())!=null){
-                        result.append(line);
-                    }
-                    TextView qnhTextView = (TextView) findViewById(R.id.qnhTextView);
-                    qnhTextView.setText(result);
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
-                return null;
-            }
-
-        };
-        task.execute();
+        TextView qnhTextView = (TextView) findViewById(R.id.qnhTextView);
+        qnhTextView.setText("...");
+        qnhTextView.setTextColor(Color.LTGRAY);
+        FTPTask ftpTask = new FTPTask(qnhTextView);
+        ftpTask.execute(new String[] {selectedAirport.getId()});
 
     }
 
