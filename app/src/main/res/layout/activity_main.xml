@@ -3,11 +3,117 @@
     android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity"
+    android:background="#ffb1d5fe">
 
-    <ListView
+    <AutoCompleteTextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/listView"
-        android:layout_centerHorizontal="true" />
+        android:id="@+id/airportView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:hint="@string/airportViewHint"
+        style="@style/Base.TextAppearance.AppCompat.Title"
+        android:selectAllOnFocus="false"
+        android:enabled="true"
+        android:layout_toLeftOf="@+id/autoSwitch"
+        android:layout_toStartOf="@+id/autoSwitch" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/airportView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/airportBox"
+        android:background="#32000000"
+        android:visibility="invisible">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.03" >
+
+            <TextView
+                android:layout_width="164dp"
+                android:layout_height="wrap_content"
+                android:text="@string/qnhLabel"
+                android:id="@+id/qnhLabel" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/qnhTextView" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="0.03">
+
+            <TextView
+                android:layout_width="164dp"
+                android:layout_height="wrap_content"
+                android:text="@string/bearingLabel"
+                android:id="@+id/bearingLabel" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/bearingTextView" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.03">
+
+            <TextView
+                android:layout_width="164dp"
+                android:layout_height="wrap_content"
+                android:text="@string/distanceLabel"
+                android:id="@+id/distanceLable" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/distanceTextView" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.03" >
+
+            <TextView
+                android:layout_width="164dp"
+                android:layout_height="wrap_content"
+                android:text="@string/elevationLabel"
+                android:id="@+id/elevationLabel" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/elevationTextView" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <Switch
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/autoModeLabel"
+        android:id="@+id/autoSwitch"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/airportBox" />
+
 </RelativeLayout>

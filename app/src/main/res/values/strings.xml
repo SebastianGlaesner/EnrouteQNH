@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">EnrouteQNH</string>
 
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="airportViewHint">Airport eingeben</string>
+    <string name="distanceLabel">Entfernung (nm)</string>
+    <string name="bearingLabel">Richtung</string>
+    <string name="elevationLabel">Höhe (ft. NN)</string>
+    <string name="qnhLabel">QNH (hpa)</string>
+    <string name="autoModeLabel">auto</string>
 </resources>

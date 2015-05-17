@@ -55,4 +55,9 @@ public class Airport implements Comparable{
         Airport other = (Airport) another;
         return this.id.compareTo(other.id);
     }
+
+    @Override
+    public String toString() {
+        return id + ", " + name;
+    }
 }
